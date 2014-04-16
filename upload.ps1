@@ -1,6 +1,6 @@
 
 Param(
-  [string]$$name ,
+  [string]$name ,
   [string]$version
 )
 $temp_file = "_update.json"
